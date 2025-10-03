@@ -64,7 +64,7 @@ echo ">";
  echo "</div>";
  echo "<p class=\"text-danger\">*Harus terisi</p>";
  echo "<input type=\"hidden\" name=\"id\" value=\"" . $row["id"] . "\">\n";
- echo "<button type=\"submit\" class=\"btn btnprimary\">Simpan</button>";
+ echo "<button type=\"submit\" class=\"btn btn-primary\">Simpan</button>";
  }
  }
  else {
